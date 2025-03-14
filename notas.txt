@@ -1,0 +1,16 @@
+CURSO: https://www.youtube.com/watch?v=2RWsLmu8yVc
+REQUISITOS: HTML, CSS e JS
+"O React é uma biblioteca usada para criar interfaces de usuário interativas."
+COMPONENTES
+npm = node package manager (npmjs.com)
+EXTENSÕES UTILIZADAS: Tailwind CSS e Prettier (format on save / default formatter)
+Comandos no terminal para iniciar um projeto React:
+node -v
+npm create vite@5.5.2 .
+npm install
+npm run dev
+SPA (single page application)
+npm install -D tailwindcss@3.4.10 postcss@8.4.41  autoprefixer@10.4.20
+npx tailwindcss init -p
+npm install lucide-react@0.435.0
+npm install react-router-dom@6.26.1
